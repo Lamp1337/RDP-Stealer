@@ -16,3 +16,5 @@ Python
 
 ## Information
 > [![dc](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/885830821704003614/)
+
+## We are not responsible for your action
